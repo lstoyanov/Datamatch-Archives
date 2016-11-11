@@ -20,3 +20,4 @@ Alex Wang, 2017, Lowell, Algorithm - "Raynor, leave me and Natalie alone"
 - Monica Song, 2019, Dunster, Website
 - Nabib Ahmed, 2019, Currier, Website - ""
 - Jarele Soyinka, 2019, Mather, Pub - "Enjoys beachsets and long walks on the sun"
+- Lora Stoyanova, 2019, Cabot, Algorithm
