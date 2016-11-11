@@ -16,3 +16,6 @@ Russell Pekala, 2019, Leverett, Data/Stats - "Datamatch is lit"
 - Adit Chandra, 2019, Mather, Algorithm
 - Richard Wang, 2019, Cabot, Website - "officially unofficial"
 - Maxwell Levenson, 2018, Pforzheimer, Website
+- Jeffrey He, 2020, Canaday, Website
+- Nabib Ahmed, 2019, Currier, Website - ""
+- Jarele Soyinka, 2019, Mather, Pub - "Enjoys beachsets and long walks on the sun"
